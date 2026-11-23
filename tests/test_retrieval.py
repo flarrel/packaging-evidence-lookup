@@ -1,6 +1,7 @@
 import unittest
 from pathlib import Path
 from tempfile import TemporaryDirectory
+from unittest.mock import patch
 
 import numpy as np
 from PIL import Image
@@ -46,6 +47,11 @@ class ResearchChecks(unittest.TestCase):
             self.assertEqual(array.shape, (12, 10, 3))
             self.assertEqual(array.dtype, np.float32)
             self.assertTrue((array == 1).all())
+
+    def test_image_decoder_size_error_is_reported_as_invalid_input(self):
+        with patch("label_lookup.images.Image.open", side_effect=Image.DecompressionBombError):
+            with self.assertRaisesRegex(ValueError, "12-megapixel"):
+                load_image(b"an image")
 
     def test_question_routing_reports_ambiguity(self):
         update = Lookup._classify({"question": "What are the product name and package codes?"})

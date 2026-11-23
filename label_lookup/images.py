@@ -9,10 +9,13 @@ from PIL import Image, ImageOps
 
 def load_image(source: Path | bytes) -> Image.Image:
     stream = BytesIO(source) if isinstance(source, bytes) else source
-    with Image.open(stream) as image:
-        if image.width * image.height > 12_000_000:
-            raise ValueError("Image exceeds the 12-megapixel limit.")
-        return ImageOps.exif_transpose(image).convert("RGB")
+    try:
+        with Image.open(stream) as image:
+            if image.width * image.height > 12_000_000:
+                raise ValueError("Image exceeds the 12-megapixel limit.")
+            return ImageOps.exif_transpose(image).convert("RGB")
+    except Image.DecompressionBombError as error:
+        raise ValueError("Image exceeds the 12-megapixel limit.") from error
 
 
 def unit_pixels(image: Image.Image) -> np.ndarray:

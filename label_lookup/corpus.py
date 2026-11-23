@@ -99,7 +99,8 @@ def read_label(work: Path, brand: str, row: dict) -> Record | None:
 
     candidate = candidates[0]
     url = candidate["url"]
-    if urlsplit(url).netloc != "dailymed.nlm.nih.gov":
+    origin = urlsplit(url)
+    if origin.scheme != "https" or origin.netloc != "dailymed.nlm.nih.gov":
         return None
     image_path = download(url, raw / "package-image", 4_000_000)
     image = load_image(image_path)

@@ -18,7 +18,7 @@ def download(
             with path.open("rb") as stream:
                 if hashlib.file_digest(stream, algorithm).hexdigest() != expected:
                     return False
-        return path.stat().st_size <= limit
+        return 0 < path.stat().st_size <= limit
 
     if target.is_file() and verify(target):
         return target
@@ -35,6 +35,9 @@ def download(
                 if total > limit:
                     raise ValueError(f"Download exceeded its byte limit: {url}")
                 output.write(chunk)
+            length = response.headers.get("Content-Length")
+            if length is not None and int(length) != total:
+                raise ValueError(f"Incomplete download: {url}")
         if not verify(staging):
             raise ValueError(f"Download checksum did not match: {url}")
         staging.replace(target)

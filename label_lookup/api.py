@@ -7,7 +7,6 @@ from pathlib import Path
 from threading import Lock
 
 from fastapi import FastAPI, HTTPException
-from PIL import UnidentifiedImageError
 from pydantic import BaseModel, Field
 
 from .answering import Lookup
@@ -46,7 +45,7 @@ def create_app(work: Path) -> FastAPI:
         if body.image_base64 is not None:
             try:
                 image = load_image(b64decode(body.image_base64, validate=True))
-            except (Error, OSError, ValueError, UnidentifiedImageError) as error:
+            except (Error, OSError, ValueError) as error:
                 raise HTTPException(422, "Expected a supported image encoded as base64.") from error
         with lock:
             return app.state.lookup.ask(body.question, image)
