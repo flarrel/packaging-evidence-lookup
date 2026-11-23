@@ -1,8 +1,8 @@
 # Packaging Evidence Lookup
 
-Look up a product name, package code, or packaging description in a small DailyMed label collection. Submit an exact product name or package code, or attach an image of the package label. The result includes a link to the source label. Ambiguous matches prompt for clarification. Questions outside the supported fields receive an abstention.
+Look up packaging information in a collection of U.S. drug labels from DailyMed. Give the tool an exact product name or package code, or attach a label image, then ask for the product name, package codes, or packaging description. Each answer cites the matching DailyMed label. The tool asks for clarification when it cannot identify a single product and declines questions about other fields.
 
-The project is a local research prototype for packaging metadata lookup. The command-line interface and HTTP service run on CPU.
+The command-line interface and local HTTP API run on CPU. The image benchmark uses cropped reference artwork with adjusted brightness. Performance on independently taken photos remains unverified.
 
 ## Quick start
 
@@ -52,9 +52,8 @@ Shut down the service before running another command on the same work directory.
 python -m label_lookup evaluate --split validation
 python -m label_lookup evaluate
 python -m unittest discover -s tests -v
-python -m label_lookup medical
 ```
 
-The benchmark compares lexical, dense text, fused, and learned image-text ranking. The medical command validates and normalizes the public PneumoniaMNIST sample and writes an image grid and per-split summary under `.work/medical/`. It is an image-processing benchmark. See [RESULTS.md](RESULTS.md) for the experiment protocol and results.
+The benchmark measures how much a label image helps identify the correct product. See [RESULTS.md](RESULTS.md) for the setup, results, and failure cases.
 
-Sources include [DailyMed](https://dailymed.nlm.nih.gov/dailymed/about-dailymed.cfm), [the official MedMNIST release](https://zenodo.org/records/10519652), [CLIP](https://huggingface.co/openai/clip-vit-base-patch32), and [FLAN-T5](https://huggingface.co/google/flan-t5-small). The data snapshot records public label IDs and factual fields. Package artwork remains in local storage.
+Sources include [DailyMed](https://dailymed.nlm.nih.gov/dailymed/about-dailymed.cfm), [CLIP](https://huggingface.co/openai/clip-vit-base-patch32), and [FLAN-T5](https://huggingface.co/google/flan-t5-small). The data snapshot records public label IDs and factual fields. Package artwork remains in local storage.
