@@ -53,6 +53,7 @@ def fetch(work: Path) -> None:
 def _session(root: Path, kind: str):
     import onnxruntime as ort
 
+    ort.disable_telemetry_events()
     options = ort.SessionOptions()
     options.intra_op_num_threads = 2
     options.inter_op_num_threads = 1
@@ -99,7 +100,7 @@ class Flan:
         self.decoder = _session(root, "decoder")
 
     def answer(self, question: str, passage: str) -> str:
-        prompt = f"Answer with the exact value in the evidence. Evidence: {passage}\nQuestion: {question}"
+        prompt = f"question: {question} context: {passage}"
         inputs = self.tokenizer(prompt, max_length=256, truncation=True, return_tensors="np")
         hidden = _run(self.encoder, **inputs)["last_hidden_state"]
         tokens = [0]

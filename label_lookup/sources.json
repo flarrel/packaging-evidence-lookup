@@ -1,0 +1,1484 @@
+{
+  "source": "https://dailymed.nlm.nih.gov/dailymed",
+  "records": [
+    {
+      "id": "ae1625f4-ef32-4d4f-bf54-c44085843e41",
+      "family": "Advil",
+      "name": "Advil Menstrual Pain",
+      "codes": [
+        "0573-0230-20",
+        "0573-0230-40"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "20 in 1 BOTTLE",
+        "40 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae1625f4-ef32-4d4f-bf54-c44085843e41",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=ae1625f4-ef32-4d4f-bf54-c44085843e41&name=image-01.jpg",
+      "image": "data/ae1625f4-ef32-4d4f-bf54-c44085843e41/package-image",
+      "image_sha256": "31c4327bd2578189dfcadb5d75684843894ff47674d935016ca34acd184b7696",
+      "version": 7
+    },
+    {
+      "id": "0da9ed22-bfb4-d61b-110b-0c7760332a98",
+      "family": "Advil",
+      "name": "ADVIL COLD AND SINUS",
+      "codes": [
+        "0573-0184-16",
+        "0573-0184-32"
+      ],
+      "package": [
+        "1 in 1 BLISTER PACK",
+        "16 in 1 CARTON",
+        "32 in 1 CARTON"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0da9ed22-bfb4-d61b-110b-0c7760332a98",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=0da9ed22-bfb4-d61b-110b-0c7760332a98&name=image-01.jpg",
+      "image": "data/0da9ed22-bfb4-d61b-110b-0c7760332a98/package-image",
+      "image_sha256": "99e3d0e65a937700bf8ac6ddec64fdee4030e30218f9248d52d003f81b9a9a6c",
+      "version": 14
+    },
+    {
+      "id": "ecfa14b8-a3f3-4569-b489-c9e1a51cf09e",
+      "family": "Afrin",
+      "name": "Afrin Original Nasal",
+      "codes": [
+        "50269-560-01",
+        "50269-560-06"
+      ],
+      "package": [
+        "1 in 1 BLISTER PACK",
+        "6 in 1 BOX",
+        "6 mL in 1 BOTTLE, SPRAY"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ecfa14b8-a3f3-4569-b489-c9e1a51cf09e",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=ecfa14b8-a3f3-4569-b489-c9e1a51cf09e&name=Inner+Package0.jpg",
+      "image": "data/ecfa14b8-a3f3-4569-b489-c9e1a51cf09e/package-image",
+      "image_sha256": "c48e56b9691b93d6bd08c51c579e20db97c83dd8e408149aaf760e7090ca92f1",
+      "version": 2
+    },
+    {
+      "id": "346f32cb-74cb-4896-b770-76d5f829a17d",
+      "family": "Afrin",
+      "name": "Afrin No DripExtra Moisturizing",
+      "codes": [
+        "11523-1783-1",
+        "11523-1783-2",
+        "11523-1783-3"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "15 mL in 1 BOTTLE, PUMP",
+        "2 in 1 CARTON",
+        "20 mL in 1 BOTTLE, PUMP"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=346f32cb-74cb-4896-b770-76d5f829a17d",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=346f32cb-74cb-4896-b770-76d5f829a17d&name=11523-1783.jpg",
+      "image": "data/346f32cb-74cb-4896-b770-76d5f829a17d/package-image",
+      "image_sha256": "b78c9eff6282e96a24aa315e220482bed9a69897634a934ac0bd7f62ab2016d5",
+      "version": 16
+    },
+    {
+      "id": "3ca84972-f8c9-1881-e063-6294a90a9070",
+      "family": "Aleve",
+      "name": "AleveCaplets",
+      "codes": [
+        "85237-1832-0",
+        "85237-1832-1",
+        "85237-1832-2",
+        "85237-1832-4",
+        "85237-1832-6",
+        "85237-1832-7"
+      ],
+      "package": [
+        "1 in 1 BLISTER PACK",
+        "1 in 1 POUCH",
+        "2 in 1 BLISTER PACK",
+        "25 in 1 BOX, UNIT-DOSE",
+        "3 in 1 BLISTER PACK",
+        "50 in 1 BOX, UNIT-DOSE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ca84972-f8c9-1881-e063-6294a90a9070",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=3ca84972-f8c9-1881-e063-6294a90a9070&name=2401830284+-+Aleve+-+1832-4.jpg",
+      "image": "data/3ca84972-f8c9-1881-e063-6294a90a9070/package-image",
+      "image_sha256": "f4966c803aafaf16d3aea8147cd0318da7bb124af4962c9e021a4dd8a6d45f15",
+      "version": 4
+    },
+    {
+      "id": "590f3be2-20df-4643-9114-e7ed4cf9155c",
+      "family": "Aleve",
+      "name": "Aleve",
+      "codes": [
+        "67751-144-01",
+        "67751-144-02",
+        "67751-144-06"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "1 in 1 POUCH",
+        "2 in 1 POUCH",
+        "3 in 1 CARTON"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=590f3be2-20df-4643-9114-e7ed4cf9155c",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=590f3be2-20df-4643-9114-e7ed4cf9155c&name=26106+V9-80.jpg",
+      "image": "data/590f3be2-20df-4643-9114-e7ed4cf9155c/package-image",
+      "image_sha256": "bf39ab677b317733280830942bfd18640a3431dfa7b05d13fc2d1383549420d5",
+      "version": 5
+    },
+    {
+      "id": "2de81a41-8488-7e39-e063-6294a90a394b",
+      "family": "Allegra",
+      "name": "Allegra Allergy 24 hour",
+      "codes": [
+        "85237-1920-1"
+      ],
+      "package": [
+        "1 in 1 BLISTER PACK",
+        "1 in 1 POUCH"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2de81a41-8488-7e39-e063-6294a90a394b",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2de81a41-8488-7e39-e063-6294a90a394b&name=2411920009+-+Allegra+-+1920-1.jpg",
+      "image": "data/2de81a41-8488-7e39-e063-6294a90a394b/package-image",
+      "image_sha256": "a91d618d2524705bf972848825b637fb3c7dcb860b6d62d7ca75907f1699fac4",
+      "version": 3
+    },
+    {
+      "id": "ff50d9cd-d849-43e8-b32a-4dcde798d3eb",
+      "family": "Allegra",
+      "name": "Childrens Allegra Hives",
+      "codes": [
+        "41167-4227-1"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "240 mL in 1 BOTTLE, PLASTIC"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ff50d9cd-d849-43e8-b32a-4dcde798d3eb",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=ff50d9cd-d849-43e8-b32a-4dcde798d3eb&name=childrens-allegra-hives-01.jpg",
+      "image": "data/ff50d9cd-d849-43e8-b32a-4dcde798d3eb/package-image",
+      "image_sha256": "dc62c81640e1363611f24a6a83d296b96e37fc78d4649b781da460466e26a566",
+      "version": 1
+    },
+    {
+      "id": "887e3566-ec5d-4474-83c6-edcc0732f8d6",
+      "family": "Aquaphor",
+      "name": "Aquaphor Healing Fast Relief Diaper Rash",
+      "codes": [
+        "10356-115-10",
+        "10356-115-29"
+      ],
+      "package": [
+        "4 g in 1 TUBE",
+        "99 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=887e3566-ec5d-4474-83c6-edcc0732f8d6",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=887e3566-ec5d-4474-83c6-edcc0732f8d6&name=adrpaste.jpg",
+      "image": "data/887e3566-ec5d-4474-83c6-edcc0732f8d6/package-image",
+      "image_sha256": "6ff25ed944c6656238c44e2dda08420112c3f0225b7f17fca53d27998d21abcf",
+      "version": 8
+    },
+    {
+      "id": "b1d0333f-ba60-35d8-e053-2995a90af932",
+      "family": "Aquaphor",
+      "name": "Aquaphor Itch Relief",
+      "codes": [
+        "10356-120-04",
+        "10356-120-07",
+        "10356-120-30",
+        "10356-120-52",
+        "10356-120-53",
+        "10356-120-54"
+      ],
+      "package": [
+        "0.9 g in 1 PACKET",
+        "1 in 1 CARTON",
+        "2 in 1 CARTON",
+        "28 g in 1 TUBE",
+        "56 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1d0333f-ba60-35d8-e053-2995a90af932",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=b1d0333f-ba60-35d8-e053-2995a90af932&name=achilditchcarton.jpg",
+      "image": "data/b1d0333f-ba60-35d8-e053-2995a90af932/package-image",
+      "image_sha256": "fba143629e041c8aad458ba2db63f17d70fe7736f00062e982db4110b634a323",
+      "version": 6
+    },
+    {
+      "id": "3d0298b7-eaec-488b-9cab-19af4614ff53",
+      "family": "Azo",
+      "name": "AZO",
+      "codes": [
+        "49973-301-30",
+        "49973-301-31",
+        "49973-301-32"
+      ],
+      "package": [
+        "1 in 1 BOX",
+        "15 in 1 BOX",
+        "18 in 1 BLISTER PACK",
+        "2 in 1 BLISTER PACK"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3d0298b7-eaec-488b-9cab-19af4614ff53",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=3d0298b7-eaec-488b-9cab-19af4614ff53&name=AZO+Urinary+Pain+Relief+Label.jpg",
+      "image": "data/3d0298b7-eaec-488b-9cab-19af4614ff53/package-image",
+      "image_sha256": "2808f03f2640b3e873bd6f2939bf7eb57eb83fcd2fe28b4eea76b3f938277a22",
+      "version": 8
+    },
+    {
+      "id": "b4874fe2-d98b-4b5c-baad-d75070947842",
+      "family": "Azo",
+      "name": "AZO Urinary Pain ReliefMaximum Strength",
+      "codes": [
+        "49973-247-06",
+        "49973-247-12",
+        "49973-247-24",
+        "49973-247-48",
+        "49973-247-96"
+      ],
+      "package": [
+        "12 in 1 BOX",
+        "2 in 1 BLISTER PACK",
+        "2 in 1 POUCH",
+        "24 in 1 BOX",
+        "3 in 1 BOX",
+        "48 in 1 BOX",
+        "6 in 1 BOX"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b4874fe2-d98b-4b5c-baad-d75070947842",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=b4874fe2-d98b-4b5c-baad-d75070947842&name=49973-247-12.jpg",
+      "image": "data/b4874fe2-d98b-4b5c-baad-d75070947842/package-image",
+      "image_sha256": "b3476675d9fb5f72d177add0d05d4b07e12e20675e17b493d784b022fca7d839",
+      "version": 11
+    },
+    {
+      "id": "fc9181b9-c92d-493e-8d7c-4a4239c6c092",
+      "family": "Benadryl",
+      "name": "Childrens Benadryl ALLERGY",
+      "codes": [
+        "50580-534-04",
+        "50580-534-08",
+        "50580-534-16",
+        "50580-534-18"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "118 mL in 1 BOTTLE",
+        "2 in 1 PACKAGE",
+        "236 mL in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fc9181b9-c92d-493e-8d7c-4a4239c6c092",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=fc9181b9-c92d-493e-8d7c-4a4239c6c092&name=benadryl+-1.jpg",
+      "image": "data/fc9181b9-c92d-493e-8d7c-4a4239c6c092/package-image",
+      "image_sha256": "832633db4288d67a734ab42f4f745973ef57bee91c07f1a8232c89d141db5c8b",
+      "version": 15
+    },
+    {
+      "id": "702f9786-7ce9-43e4-921d-e1db09612127",
+      "family": "Benadryl",
+      "name": "Benadryl",
+      "codes": [
+        "50580-226-12",
+        "50580-226-20",
+        "50580-226-33",
+        "50580-226-50",
+        "50580-226-51",
+        "50580-226-52",
+        "50580-226-53",
+        "50580-226-54",
+        "50580-226-56",
+        "50580-226-62",
+        "50580-226-70"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "100 in 1 BOTTLE",
+        "12 in 1 BLISTER PACK",
+        "2 in 1 CARTON",
+        "2 in 1 POUCH",
+        "3 in 1 CARTON",
+        "3 in 1 PACKAGE",
+        "4 in 1 CARTON",
+        "48 in 1 BOTTLE",
+        "60 in 1 CARTON"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=702f9786-7ce9-43e4-921d-e1db09612127",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=702f9786-7ce9-43e4-921d-e1db09612127&name=Benadryl-1.jpg",
+      "image": "data/702f9786-7ce9-43e4-921d-e1db09612127/package-image",
+      "image_sha256": "4017084b3ee8701efa41c3dd78a7c31decfed74043d3787ac89291fe5e17c0e7",
+      "version": 32
+    },
+    {
+      "id": "5cdde6f9-89ef-444b-e063-6294a90a7d9a",
+      "family": "Carmex",
+      "name": "Carmex Variety Pack Daily Care Moisturizing Lip Balm SPF 15",
+      "codes": [
+        "10210-0103-1"
+      ],
+      "package": [
+        "1 in 1 KIT"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5cdde6f9-89ef-444b-e063-6294a90a7d9a",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=5cdde6f9-89ef-444b-e063-6294a90a7d9a&name=label+1.jpg",
+      "image": "data/5cdde6f9-89ef-444b-e063-6294a90a7d9a/package-image",
+      "image_sha256": "3bc3ed54142600fdb264c7a4b93fbd15867d889c2ba8929fa5d79ce9c08d6688",
+      "version": 1
+    },
+    {
+      "id": "5ce05fe2-0697-5798-e063-6294a90abce4",
+      "family": "Carmex",
+      "name": "Carmex Variety Pack Daily Care Moisturizing Lip Balm SPF 15",
+      "codes": [
+        "10210-0104-1"
+      ],
+      "package": [
+        "1 in 1 KIT"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5ce05fe2-0697-5798-e063-6294a90abce4",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=5ce05fe2-0697-5798-e063-6294a90abce4&name=label+1.jpg",
+      "image": "data/5ce05fe2-0697-5798-e063-6294a90abce4/package-image",
+      "image_sha256": "7c575684e98037f8419bee5303e6758dc9ff19fbfca5f8d91e94724183ca62e2",
+      "version": 1
+    },
+    {
+      "id": "3c9ad1f8-e8ef-bcd0-e063-6394a90ac20e",
+      "family": "Claritin",
+      "name": "Claritin",
+      "codes": [
+        "85237-1630-1",
+        "85237-1630-3",
+        "85237-1630-4"
+      ],
+      "package": [
+        "1 in 1 BLISTER PACK",
+        "1 in 1 CARTON",
+        "1 in 1 POUCH",
+        "20 in 1 BOX, UNIT-DOSE",
+        "25 in 1 BOX, UNIT-DOSE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3c9ad1f8-e8ef-bcd0-e063-6394a90ac20e",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=3c9ad1f8-e8ef-bcd0-e063-6394a90ac20e&name=claritin1.jpg",
+      "image": "data/3c9ad1f8-e8ef-bcd0-e063-6394a90ac20e/package-image",
+      "image_sha256": "95fcfb9cdbd225bae025071e89965ff3f2cf30926ae738ddceae99c1106e2704",
+      "version": 2
+    },
+    {
+      "id": "20938e05-bc3e-51aa-e054-00144ff88e88",
+      "family": "Claritin",
+      "name": "Claritin",
+      "codes": [
+        "11523-4330-1",
+        "11523-4330-3",
+        "11523-4330-4"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "10 in 1 BLISTER PACK",
+        "3 in 1 CARTON",
+        "4 in 1 CARTON"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=20938e05-bc3e-51aa-e054-00144ff88e88",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=20938e05-bc3e-51aa-e054-00144ff88e88&name=10+count+carton-bubblegum+flavored.jpg",
+      "image": "data/20938e05-bc3e-51aa-e054-00144ff88e88/package-image",
+      "image_sha256": "18ab4c060d9b2467ef31031dc65da69978649c9c874f9ce2161ecd4b658d01cb",
+      "version": 8
+    },
+    {
+      "id": "7793fced-e8ee-44e2-b212-dd2a59a5f462",
+      "family": "Colace",
+      "name": "Colace",
+      "codes": [
+        "67618-101-01",
+        "67618-101-10",
+        "67618-101-25",
+        "67618-101-30",
+        "67618-101-51",
+        "67618-101-52",
+        "67618-101-60"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "100 in 1 BOTTLE, PLASTIC",
+        "150 in 1 BOTTLE, PLASTIC",
+        "2 in 1 CARTON",
+        "250 in 1 BOTTLE, PLASTIC",
+        "30 in 1 BOTTLE, PLASTIC",
+        "5 in 1 BLISTER PACK",
+        "60 in 1 BOTTLE, PLASTIC"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7793fced-e8ee-44e2-b212-dd2a59a5f462",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=7793fced-e8ee-44e2-b212-dd2a59a5f462&name=101-regular-carton.jpg",
+      "image": "data/7793fced-e8ee-44e2-b212-dd2a59a5f462/package-image",
+      "image_sha256": "ef9ec2d62544f2d1e1a4408f5ad86806ff4d114537c611ea574d6c080feb3851",
+      "version": 18
+    },
+    {
+      "id": "572adfaf-6e26-42e5-b65d-6d356a0bdfa9",
+      "family": "Colace",
+      "name": "Colace Fast-Acting Saline Laxative",
+      "codes": [
+        "67618-102-60"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "60 in 1 BOTTLE, PLASTIC"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=572adfaf-6e26-42e5-b65d-6d356a0bdfa9",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=572adfaf-6e26-42e5-b65d-6d356a0bdfa9&name=carton.jpg",
+      "image": "data/572adfaf-6e26-42e5-b65d-6d356a0bdfa9/package-image",
+      "image_sha256": "6daa78026a142b8cd21f86c9f7700c254267158ae08765ab49e7e6d5da8e584a",
+      "version": 1
+    },
+    {
+      "id": "1e27682c-f856-41f1-9935-37540960a4c7",
+      "family": "Cortizone",
+      "name": "Cortizone 10 Itch Relief Massaging Rollerball",
+      "codes": [
+        "41167-0338-0"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "42 g in 1 BOTTLE, WITH APPLICATOR"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e27682c-f856-41f1-9935-37540960a4c7",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=1e27682c-f856-41f1-9935-37540960a4c7&name=cortizone-10-itch-relief-massaging-rollerball-01.jpg",
+      "image": "data/1e27682c-f856-41f1-9935-37540960a4c7/package-image",
+      "image_sha256": "270df06f07c99f1ec11018a0b5d0d0fb0845b90db48129eef47fb5643b5e2798",
+      "version": 6
+    },
+    {
+      "id": "b21b6c04-8246-4567-98cf-64e8c588e79c",
+      "family": "Cortizone",
+      "name": "Cortizone 10 Bug Bite Relief",
+      "codes": [
+        "41167-0337-2"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "22.2 mL in 1 TUBE, WITH APPLICATOR"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b21b6c04-8246-4567-98cf-64e8c588e79c",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=b21b6c04-8246-4567-98cf-64e8c588e79c&name=cortizone-10-bug-bite-relief-stick-01.jpg",
+      "image": "data/b21b6c04-8246-4567-98cf-64e8c588e79c/package-image",
+      "image_sha256": "2b764cbbb6910d0ea01f48e15862770c40f634293b919cdd55169f3743226d2b",
+      "version": 1
+    },
+    {
+      "id": "01f0e81a-03bf-e17f-e063-6394a90a7358",
+      "family": "Crest",
+      "name": "Crest KidsSparkleFun Bubblegum",
+      "codes": [
+        "58933-023-42",
+        "58933-023-85"
+      ],
+      "package": [
+        "119 g in 1 TUBE",
+        "24 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01f0e81a-03bf-e17f-e063-6394a90a7358",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=01f0e81a-03bf-e17f-e063-6394a90a7358&name=SparkleFun+Bubblegum.pdf.jpg",
+      "image": "data/01f0e81a-03bf-e17f-e063-6394a90a7358/package-image",
+      "image_sha256": "b0c856a896d77489f4e474c060e1c7a45790e4e907615f1f57fb2064613d5050",
+      "version": 5
+    },
+    {
+      "id": "2f11e935-1711-5f1a-e063-6294a90af7d8",
+      "family": "Crest",
+      "name": "Crest 3D WhiteDeep Stain Remover Dazzling Mint",
+      "codes": [
+        "84126-610-21",
+        "84126-610-31"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "59 g in 1 TUBE",
+        "87 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2f11e935-1711-5f1a-e063-6294a90af7d8",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2f11e935-1711-5f1a-e063-6294a90af7d8&name=label.pdf.jpg",
+      "image": "data/2f11e935-1711-5f1a-e063-6294a90af7d8/package-image",
+      "image_sha256": "ed9cf0f9fba153be0272f9a0ddf8f62af2716140ade50d1e967b3cf35fd392a5",
+      "version": 3
+    },
+    {
+      "id": "e3e1d126-76c2-4776-8ce0-449625b7e6ba",
+      "family": "Delsym",
+      "name": "Delsym",
+      "codes": [
+        "63824-175-22",
+        "63824-175-63",
+        "63824-175-65",
+        "63824-175-75"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "148 mL in 1 BOTTLE",
+        "15 mL in 1 BOTTLE",
+        "2 in 1 CELLO PACK",
+        "89 mL in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e3e1d126-76c2-4776-8ce0-449625b7e6ba",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=e3e1d126-76c2-4776-8ce0-449625b7e6ba&name=delsym-01.jpg",
+      "image": "data/e3e1d126-76c2-4776-8ce0-449625b7e6ba/package-image",
+      "image_sha256": "fdacc0a00a3a62584db38019a63b80d417c68770a3d86a80f2051b05d730636d",
+      "version": 15
+    },
+    {
+      "id": "27f9d2db-38ce-41d2-8f1a-0eb171600274",
+      "family": "Delsym",
+      "name": "Delsym Nighttime Cough",
+      "codes": [
+        "63824-223-66"
+      ],
+      "package": [
+        "180 mL in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27f9d2db-38ce-41d2-8f1a-0eb171600274",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=27f9d2db-38ce-41d2-8f1a-0eb171600274&name=63824-223+back+label+2.jpg",
+      "image": "data/27f9d2db-38ce-41d2-8f1a-0eb171600274/package-image",
+      "image_sha256": "fcec2b5ba37d2321d8deba99f7eb5a542545f3105501b77e90afb80060d8b957",
+      "version": 9
+    },
+    {
+      "id": "5e163c21-59dc-fcfd-e063-6294a90a282c",
+      "family": "Dramamine",
+      "name": "Dramamine Less Drowsy",
+      "codes": [
+        "85237-1922-0",
+        "85237-1922-1",
+        "85237-1922-2",
+        "85237-1922-4"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "2 in 1 CARTON",
+        "2 in 1 POUCH",
+        "25 in 1 CARTON"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5e163c21-59dc-fcfd-e063-6294a90a282c",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=5e163c21-59dc-fcfd-e063-6294a90a282c&name=2521922317+-+Dramamine+Less+Drowsy+-+1922-2.jpg",
+      "image": "data/5e163c21-59dc-fcfd-e063-6294a90a282c/package-image",
+      "image_sha256": "7d98440dcfa37db9801abc55919804275720d528c4352350aa420d83067b0c18",
+      "version": 1
+    },
+    {
+      "id": "76166156-bce1-492f-833e-6bbd07859c3f",
+      "family": "Dramamine",
+      "name": "Dramamine Orange",
+      "codes": [
+        "63029-902-01",
+        "63029-902-02",
+        "63029-902-04"
+      ],
+      "package": [
+        "1 in 1 BOX",
+        "2 in 1 BOX",
+        "2 in 1 POUCH",
+        "8 in 1 BLISTER PACK"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=76166156-bce1-492f-833e-6bbd07859c3f",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=76166156-bce1-492f-833e-6bbd07859c3f&name=dramamine-chewable-orange-01.jpg",
+      "image": "data/76166156-bce1-492f-833e-6bbd07859c3f/package-image",
+      "image_sha256": "ab82c8c5db43aeb37c1555c78e7259de08e1796db134732aff69675d5cefc971",
+      "version": 7
+    },
+    {
+      "id": "fe71907c-b1eb-4433-9337-933a944f3e62",
+      "family": "Dulcolax",
+      "name": "Dulcolax Soft Chews Mixed Berry",
+      "codes": [
+        "41167-0265-2",
+        "41167-0265-3",
+        "41167-0265-6",
+        "41167-0265-8"
+      ],
+      "package": [
+        "15 in 1 BAG",
+        "30 in 1 BAG",
+        "60 in 1 BAG",
+        "90 in 1 BAG"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe71907c-b1eb-4433-9337-933a944f3e62",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=fe71907c-b1eb-4433-9337-933a944f3e62&name=dulcolax-soft-chews-mixed-berry-01.jpg",
+      "image": "data/fe71907c-b1eb-4433-9337-933a944f3e62/package-image",
+      "image_sha256": "dbce807595df8b5ea3dc9681f0bb6671168ccd8eee86c87d7117c66c20d9cb3d",
+      "version": 9
+    },
+    {
+      "id": "919375cd-7646-4958-9e2b-cec2e1b2bd49",
+      "family": "Dulcolax",
+      "name": "Dulcolax Laxative",
+      "codes": [
+        "41167-0222-0",
+        "41167-0222-1"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "20 in 1 BOTTLE",
+        "72 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=919375cd-7646-4958-9e2b-cec2e1b2bd49",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=919375cd-7646-4958-9e2b-cec2e1b2bd49&name=dulcolax-liquid-gel-laxative-01.jpg",
+      "image": "data/919375cd-7646-4958-9e2b-cec2e1b2bd49/package-image",
+      "image_sha256": "5f45640b75ce8de18c9cde392d854dff6e8ff09821b47074f04b845a2651b646",
+      "version": 3
+    },
+    {
+      "id": "596a4204-3d29-9023-e063-6294a90ad99e",
+      "family": "Eucerin",
+      "name": "Eucerin Radiant Tone Tinted Sunscreen SPF 50",
+      "codes": [
+        "66800-9000-1",
+        "66800-9000-2"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "10 g in 1 TUBE",
+        "50 g in 1 BOTTLE, DISPENSING"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=596a4204-3d29-9023-e063-6294a90ad99e",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=596a4204-3d29-9023-e063-6294a90ad99e&name=Sunray.jpg",
+      "image": "data/596a4204-3d29-9023-e063-6294a90ad99e/package-image",
+      "image_sha256": "82c86ea8d1c163f69db4c4f25c0de10b724ab4b0edf98cc484e144b8470d08a0",
+      "version": 1
+    },
+    {
+      "id": "cdb25154-e4e3-efc7-e053-2a95a90a2df6",
+      "family": "Eucerin",
+      "name": "Eucerin Sensitive Mineral SPF 50 Sunscreen",
+      "codes": [
+        "66800-1000-1"
+      ],
+      "package": [
+        "118 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cdb25154-e4e3-efc7-e053-2a95a90a2df6",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=cdb25154-e4e3-efc7-e053-2a95a90a2df6&name=BA.07.jpg",
+      "image": "data/cdb25154-e4e3-efc7-e053-2a95a90a2df6/package-image",
+      "image_sha256": "5c2b9453b9335de077a2d3655a6a9d9b368253f2ac4d3c1d1df6896da4c44ee4",
+      "version": 5
+    },
+    {
+      "id": "3caa0a47-de83-90d2-e063-6394a90a3436",
+      "family": "Excedrin",
+      "name": "Excedrin\nExtra Strength Headache",
+      "codes": [
+        "85237-1868-1",
+        "85237-1868-2",
+        "85237-1868-3",
+        "85237-1868-6"
+      ],
+      "package": [
+        "1 in 1 BLISTER PACK",
+        "2 in 1 BLISTER PACK",
+        "2 in 1 POUCH",
+        "25 in 1 BOX, UNIT-DOSE",
+        "50 in 1 BOX, UNIT-DOSE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3caa0a47-de83-90d2-e063-6394a90a3436",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=3caa0a47-de83-90d2-e063-6394a90a3436&name=2501864301+-+Excedrin+Extra+Strength+-+1868-4.jpg",
+      "image": "data/3caa0a47-de83-90d2-e063-6394a90a3436/package-image",
+      "image_sha256": "3bee3e74fad4a9a9ba8bf22bbc5378ba47a92441bd88f733d65e7c8c0903549b",
+      "version": 7
+    },
+    {
+      "id": "3caa4adf-abe3-67c3-e063-6294a90a87a4",
+      "family": "Excedrin",
+      "name": "Excedrin\nMigraine",
+      "codes": [
+        "85237-1871-0",
+        "85237-1871-1",
+        "85237-1871-2",
+        "85237-1871-3",
+        "85237-1871-4",
+        "85237-1871-7"
+      ],
+      "package": [
+        "1 in 1 BLISTER PACK",
+        "2 in 1 BLISTER PACK",
+        "2 in 1 POUCH",
+        "25 in 1 BOX, UNIT-DOSE",
+        "3 in 1 BLISTER PACK",
+        "50 in 1 BOX, UNIT-DOSE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3caa4adf-abe3-67c3-e063-6294a90a87a4",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=3caa4adf-abe3-67c3-e063-6294a90a87a4&name=2501871160+-+Excedrin+Migraine+-+1871-6.jpg",
+      "image": "data/3caa4adf-abe3-67c3-e063-6294a90a87a4/package-image",
+      "image_sha256": "d26c2b4f91399255d12ce72ae6f106e5ef283e1b98bd641ced5c98072f2e8af7",
+      "version": 4
+    },
+    {
+      "id": "107100af-7ca2-44e8-b067-c0ab0a19a6dc",
+      "family": "Flonase",
+      "name": "FLONASE SENSIMISTALLERGY RELIEF",
+      "codes": [
+        "0135-0615-01",
+        "0135-0615-02",
+        "0135-0615-03",
+        "0135-0615-04",
+        "0135-0615-05",
+        "0135-0615-06"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "1 in 1 PACKAGE",
+        "120 in 1 BOTTLE",
+        "2 in 1 PACKAGE",
+        "3 in 1 PACKAGE",
+        "30 in 1 BOTTLE",
+        "60 in 1 BOTTLE",
+        "72 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=107100af-7ca2-44e8-b067-c0ab0a19a6dc",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=107100af-7ca2-44e8-b067-c0ab0a19a6dc&name=Flonase+Sensimist+120+sprays.jpg",
+      "image": "data/107100af-7ca2-44e8-b067-c0ab0a19a6dc/package-image",
+      "image_sha256": "4cfcf8f217deab2a00b7bde0fbca85858fad17146af61afe59f8cad7ebb3a724",
+      "version": 11
+    },
+    {
+      "id": "b6134ba0-b70a-4eac-9a82-cef64b242c1d",
+      "family": "Flonase",
+      "name": "FLONASEALLERGY RELIEF",
+      "codes": [
+        "0135-0576-01",
+        "0135-0576-02",
+        "0135-0576-03",
+        "0135-0576-04",
+        "0135-0576-12",
+        "0135-0576-14",
+        "0135-0576-15",
+        "0135-0576-16",
+        "0135-0576-17",
+        "0135-0576-18"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "1 in 1 PACKAGE",
+        "120 in 1 BOTTLE",
+        "144 in 1 BOTTLE",
+        "2 in 1 PACKAGE",
+        "3 in 1 PACKAGE",
+        "30 in 1 BOTTLE",
+        "60 in 1 BOTTLE",
+        "72 in 1 BOTTLE",
+        "90 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b6134ba0-b70a-4eac-9a82-cef64b242c1d",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=b6134ba0-b70a-4eac-9a82-cef64b242c1d&name=Flonase+Allergy+144+sprays.jpg",
+      "image": "data/b6134ba0-b70a-4eac-9a82-cef64b242c1d/package-image",
+      "image_sha256": "58acc149dbd4c2ff215e973003c1922444b415dea63be7158cab4ad7c8a2c7e9",
+      "version": 21
+    },
+    {
+      "id": "8e469076-2f5a-4de8-8d13-a38c072b9af8",
+      "family": "Gold Bond",
+      "name": "Gold Bond Maximum Strength Foot Pain Relief",
+      "codes": [
+        "84714-0427-6"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "49 g in 1 BOTTLE, PLASTIC"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8e469076-2f5a-4de8-8d13-a38c072b9af8",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=8e469076-2f5a-4de8-8d13-a38c072b9af8&name=gold-bond-maximum-strength-foot-pain-relief-cream-01.jpg",
+      "image": "data/8e469076-2f5a-4de8-8d13-a38c072b9af8/package-image",
+      "image_sha256": "d74596cac01670e3c6be7e18b131a3a6d17c7a92d454565e38c341a388f20401",
+      "version": 1
+    },
+    {
+      "id": "52744c77-278f-40b1-a356-14ae4366389b",
+      "family": "Gold Bond",
+      "name": "Gold Bond Medicated eczema relief",
+      "codes": [
+        "41167-0567-1"
+      ],
+      "package": [
+        "155 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=52744c77-278f-40b1-a356-14ae4366389b",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=52744c77-278f-40b1-a356-14ae4366389b&name=gold-bond-eczema-relief-medicated-skin-protectant-01.jpg",
+      "image": "data/52744c77-278f-40b1-a356-14ae4366389b/package-image",
+      "image_sha256": "5a1a8eb59c74b41dec8e84795e534bd24d9731a14429d9368f9103433bb00ee1",
+      "version": 8
+    },
+    {
+      "id": "5d12e396-f82d-4c44-e063-6294a90ae291",
+      "family": "Listerine",
+      "name": "Listerine Freshburst Intense Antiseptic Antigingivitis/Antiplaque Mouthwash",
+      "codes": [
+        "69968-0956-1",
+        "69968-0956-2",
+        "69968-0956-3",
+        "69968-0956-5"
+      ],
+      "package": [
+        "1000 mL in 1 BOTTLE",
+        "1500 mL in 1 BOTTLE",
+        "250 mL in 1 BOTTLE",
+        "500 mL in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5d12e396-f82d-4c44-e063-6294a90ae291",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=5d12e396-f82d-4c44-e063-6294a90ae291&name=Listerine_1.jpg",
+      "image": "data/5d12e396-f82d-4c44-e063-6294a90ae291/package-image",
+      "image_sha256": "06edb5f1a61ea6aab1d89b8ababc8c0b0604330c392e738726ffde72d86be01b",
+      "version": 1
+    },
+    {
+      "id": "583882b5-0efb-4501-e063-6394a90a6ee7",
+      "family": "Listerine",
+      "name": "Listerine Whitening Extra Mild Alcohol Free Anticavity Fluoride Mouthwash",
+      "codes": [
+        "69968-1008-1",
+        "69968-1008-5"
+      ],
+      "package": [
+        "1000 mL in 1 BOTTLE",
+        "500 mL in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=583882b5-0efb-4501-e063-6394a90a6ee7",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=583882b5-0efb-4501-e063-6394a90a6ee7&name=Listerine_1.jpg",
+      "image": "data/583882b5-0efb-4501-e063-6394a90a6ee7/package-image",
+      "image_sha256": "9362e651afebeaefc75fa5edad1acf3548ad7ed6ed54b3d7261dcc064f00e602",
+      "version": 2
+    },
+    {
+      "id": "2ce20ab5-5f2d-1c97-e063-6394a90ad67b",
+      "family": "Mucinex",
+      "name": "Mucinex Childrens Mighty Chews Cold and Flu",
+      "codes": [
+        "72854-084-16"
+      ],
+      "package": [
+        "16 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ce20ab5-5f2d-1c97-e063-6394a90ad67b",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2ce20ab5-5f2d-1c97-e063-6394a90ad67b&name=72854-084-16+label+1.jpg",
+      "image": "data/2ce20ab5-5f2d-1c97-e063-6394a90ad67b/package-image",
+      "image_sha256": "d1e2a0715132c567dbe5b4604705ad2d15327f1676283f06dd7d7f3e174e8e36",
+      "version": 2
+    },
+    {
+      "id": "2ce31244-9c6c-b7dd-e063-6394a90a31a8",
+      "family": "Mucinex",
+      "name": "Mucinex Childrens Mighty Chews Night Time Cold and Flu",
+      "codes": [
+        "72854-085-16"
+      ],
+      "package": [
+        "16 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ce31244-9c6c-b7dd-e063-6394a90a31a8",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=2ce31244-9c6c-b7dd-e063-6394a90a31a8&name=72854-085-16+label+1.jpg",
+      "image": "data/2ce31244-9c6c-b7dd-e063-6394a90a31a8/package-image",
+      "image_sha256": "3ef23483e19ee03222466fb5c5578c9ad3421bcc3f341edbb768d1e453635452",
+      "version": 6
+    },
+    {
+      "id": "f4545718-8643-a340-e053-2995a90a0079",
+      "family": "Neosporin",
+      "name": "Neosporin Plus Pain ReliefClubtray",
+      "codes": [
+        "69968-0801-9"
+      ],
+      "package": [
+        "1 in 1 PACKAGE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4545718-8643-a340-e053-2995a90a0079",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=f4545718-8643-a340-e053-2995a90a0079&name=Neosporin_01.jpg",
+      "image": "data/f4545718-8643-a340-e053-2995a90a0079/package-image",
+      "image_sha256": "0c35536364c361d6023bb48f617de34bbe59b7ce54a046b2de376ff2f7700ee3",
+      "version": 3
+    },
+    {
+      "id": "e450b6a1-a8da-e5db-e053-2995a90a0ef0",
+      "family": "Neosporin",
+      "name": "Neosporin Plus Lidocaine",
+      "codes": [
+        "69968-0731-1",
+        "69968-0731-2"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "14.2 g in 1 TUBE",
+        "28.3 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e450b6a1-a8da-e5db-e053-2995a90a0ef0",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=e450b6a1-a8da-e5db-e053-2995a90a0ef0&name=Neosporin-1.jpg",
+      "image": "data/e450b6a1-a8da-e5db-e053-2995a90a0ef0/package-image",
+      "image_sha256": "67374f9fcf594a555225f28343caf8eaa80fb145cd3d618e2a9407aad35808e7",
+      "version": 7
+    },
+    {
+      "id": "5a1b4133-0eac-2f8f-e063-6394a90af8f6",
+      "family": "Orajel",
+      "name": "Orajel 4X Medicated Toothache and Gum",
+      "codes": [
+        "10237-887-25"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "7 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a1b4133-0eac-2f8f-e063-6394a90af8f6",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=5a1b4133-0eac-2f8f-e063-6394a90af8f6&name=Orajel+4X+GEL.jpg",
+      "image": "data/5a1b4133-0eac-2f8f-e063-6394a90af8f6/package-image",
+      "image_sha256": "ed72bd34eb08f64ed1bcc2b44d9556dd83533e766e18b9a108ba68ed1bb22ad2",
+      "version": 2
+    },
+    {
+      "id": "5a1c82b4-02b3-d456-e063-6294a90a16bb",
+      "family": "Orajel",
+      "name": "Orajel 4X Medicated Toothache and Gum Cream",
+      "codes": [
+        "10237-888-33"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "9.4 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a1c82b4-02b3-d456-e063-6294a90a16bb",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=5a1c82b4-02b3-d456-e063-6294a90a16bb&name=Orajel+4X+Cream.jpg",
+      "image": "data/5a1c82b4-02b3-d456-e063-6294a90a16bb/package-image",
+      "image_sha256": "78cd207a160e75496ad7ba9ed5a939e75058ff7015a381fd7e059ca8c413dfec",
+      "version": 1
+    },
+    {
+      "id": "fff07b68-02ca-438e-8d53-5b4edf5eefc5",
+      "family": "Pepcid",
+      "name": "Pepcid Complete Dual Action Berry Flavor",
+      "codes": [
+        "67414-700-01"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "50 in 1 POUCH"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fff07b68-02ca-438e-8d53-5b4edf5eefc5",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=fff07b68-02ca-438e-8d53-5b4edf5eefc5&name=Inner+Package2.jpg",
+      "image": "data/fff07b68-02ca-438e-8d53-5b4edf5eefc5/package-image",
+      "image_sha256": "f5502912616752e6433e11d18a480163b71c03cb5733320f6ee5854098a1e7a2",
+      "version": 1
+    },
+    {
+      "id": "a2ef8424-7d80-42b0-a01e-f378f629b2b6",
+      "family": "Pepcid",
+      "name": "Pepcid Complete",
+      "codes": [
+        "16837-891-25",
+        "16837-891-50",
+        "16837-891-65",
+        "16837-891-66",
+        "16837-891-70",
+        "16837-891-72"
+      ],
+      "package": [
+        "25 in 1 BOTTLE",
+        "50 in 1 BOTTLE",
+        "70 in 1 BOTTLE",
+        "72 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2ef8424-7d80-42b0-a01e-f378f629b2b6",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=a2ef8424-7d80-42b0-a01e-f378f629b2b6&name=pepcid+-1.jpg",
+      "image": "data/a2ef8424-7d80-42b0-a01e-f378f629b2b6/package-image",
+      "image_sha256": "7d259ca3ce2d49aee7254c50e9aafc6b45c24ab79a7fd1e9a65cbe2cd34a2ac8",
+      "version": 20
+    },
+    {
+      "id": "63283ebc-cff8-07d4-e053-2a91aa0a9de0",
+      "family": "Pepto-Bismol",
+      "name": "Pepto-BismolULTRA",
+      "codes": [
+        "58933-478-12",
+        "58933-478-24"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "12 in 1 BOTTLE",
+        "24 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63283ebc-cff8-07d4-e053-2a91aa0a9de0",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=63283ebc-cff8-07d4-e053-2a91aa0a9de0&name=478.jpg",
+      "image": "data/63283ebc-cff8-07d4-e053-2a91aa0a9de0/package-image",
+      "image_sha256": "bde133d23db599b6e85b133de77274f03c3fe663cf1d5ddbb6f11c1475437589",
+      "version": 11
+    },
+    {
+      "id": "66d9d631-ba73-3ce4-e053-2a91aa0a1cc4",
+      "family": "Pepto-Bismol",
+      "name": "Pepto-Bismol",
+      "codes": [
+        "58933-476-01",
+        "58933-476-02",
+        "58933-476-03",
+        "58933-476-12"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "1 in 1 POUCH",
+        "17852 in 1 BAG",
+        "2 in 1 BLISTER PACK",
+        "24 in 1 BOTTLE",
+        "40 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66d9d631-ba73-3ce4-e053-2a91aa0a1cc4",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=66d9d631-ba73-3ce4-e053-2a91aa0a1cc4&name=476.jpg",
+      "image": "data/66d9d631-ba73-3ce4-e053-2a91aa0a1cc4/package-image",
+      "image_sha256": "56b1ff5627b95b974a4e5bc3233f93fffcd07bbe0d8e1c2572f0de954c418e9b",
+      "version": 10
+    },
+    {
+      "id": "485437a8-b2e9-4acf-a20e-edb1f08a9cae",
+      "family": "Preparation H",
+      "name": "PREPARATION H SOOTHING RELIEF CLEANSING AND COOLING WIPES",
+      "codes": [
+        "0573-0553-60",
+        "0573-0553-95"
+      ],
+      "package": [
+        "3 in 1 CARTON",
+        "60 in 1 POUCH"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485437a8-b2e9-4acf-a20e-edb1f08a9cae",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=485437a8-b2e9-4acf-a20e-edb1f08a9cae&name=preparationh-01.jpg",
+      "image": "data/485437a8-b2e9-4acf-a20e-edb1f08a9cae/package-image",
+      "image_sha256": "24d38815491286a5bd6ddbc38e3b2cd2648466e0fca17c38688b08605e4742e9",
+      "version": 5
+    },
+    {
+      "id": "8d9961f0-1ecf-d7fb-b6b4-856d636d68e1",
+      "family": "Preparation H",
+      "name": "PREPARATION H MEDICATED WIPES",
+      "codes": [
+        "0573-0556-07",
+        "0573-0556-20",
+        "0573-0556-95",
+        "0573-0556-96",
+        "0573-0556-98"
+      ],
+      "package": [
+        "1 in 1 PACKET",
+        "10 in 1 CARTON",
+        "2 in 1 CARTON",
+        "3 in 1 CARTON",
+        "4 in 1 CARTON",
+        "48 in 1 POUCH",
+        "60 in 1 POUCH"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8d9961f0-1ecf-d7fb-b6b4-856d636d68e1",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=8d9961f0-1ecf-d7fb-b6b4-856d636d68e1&name=Prep+H+2+x+48+Ct+Wipes.JPG.jpg",
+      "image": "data/8d9961f0-1ecf-d7fb-b6b4-856d636d68e1/package-image",
+      "image_sha256": "29d45c896a81ac0511bfa44d79c4f9fb010be0bd9b1fe490698c181c1462f28e",
+      "version": 12
+    },
+    {
+      "id": "37291cab-e350-d8e3-e063-6294a90a9cb1",
+      "family": "Prilosec",
+      "name": "Prilosec OTC",
+      "codes": [
+        "84126-300-14",
+        "84126-300-24",
+        "84126-300-42",
+        "84126-300-56"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "14 in 1 BLISTER PACK",
+        "2 in 1 CARTON",
+        "3 in 1 CARTON",
+        "4 in 1 CARTON"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=37291cab-e350-d8e3-e063-6294a90a9cb1",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=37291cab-e350-d8e3-e063-6294a90a9cb1&name=300.jpg",
+      "image": "data/37291cab-e350-d8e3-e063-6294a90a9cb1/package-image",
+      "image_sha256": "35907d1f407ac0c5761564dc25926e6efd77d875044cfee2e23358ccb39be5f3",
+      "version": 3
+    },
+    {
+      "id": "c7229a69-07e7-4690-8fc0-1f0f093bf230",
+      "family": "Prilosec",
+      "name": "Prilosec OTC",
+      "codes": [
+        "84126-301-14",
+        "84126-301-42"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "14 in 1 BLISTER PACK",
+        "3 in 1 CARTON"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c7229a69-07e7-4690-8fc0-1f0f093bf230",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=c7229a69-07e7-4690-8fc0-1f0f093bf230&name=301.jpg",
+      "image": "data/c7229a69-07e7-4690-8fc0-1f0f093bf230/package-image",
+      "image_sha256": "656129e1f8bf435a4a6e1755d71c6efd3aaa89264f4d892de188c69422e92c6e",
+      "version": 3
+    },
+    {
+      "id": "0cc9d823-bdac-0a65-e063-6394a90aa65c",
+      "family": "Rolaids",
+      "name": "Rolaids Ultra Strength AntacidAssorted Fruit",
+      "codes": [
+        "69423-825-10",
+        "69423-825-72"
+      ],
+      "package": [
+        "10 in 1 PACKAGE",
+        "72 in 1 BOTTLE, PLASTIC"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0cc9d823-bdac-0a65-e063-6394a90aa65c",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=0cc9d823-bdac-0a65-e063-6394a90aa65c&name=Rolaids+Ultra+Strength+Assorted+Fruit+72+ct.jpg",
+      "image": "data/0cc9d823-bdac-0a65-e063-6394a90aa65c/package-image",
+      "image_sha256": "0880702be35b8f946946e3a367e931f123dbac192428ebec259f8f562fa07783",
+      "version": 6
+    },
+    {
+      "id": "0ccf0eca-3914-b27a-e063-6294a90a493e",
+      "family": "Rolaids",
+      "name": "Rolaids Multi-Symptom Advanced Antacid plus Anti-gasWild Berry",
+      "codes": [
+        "69423-826-01",
+        "69423-826-03",
+        "69423-826-60"
+      ],
+      "package": [
+        "10 in 1 CELLO PACK",
+        "3 in 1 PACKAGE",
+        "60 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0ccf0eca-3914-b27a-e063-6294a90a493e",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=0ccf0eca-3914-b27a-e063-6294a90a493e&name=Rolaids+Advanced+60ct+Wild+Berry.jpg",
+      "image": "data/0ccf0eca-3914-b27a-e063-6294a90a493e/package-image",
+      "image_sha256": "5fec68fe119485b046c878ff8f130296ddb72020b7859aa0b556b434a917c68b",
+      "version": 7
+    },
+    {
+      "id": "41b1e626-e79b-d638-e063-6394a90a1f5b",
+      "family": "Sensodyne",
+      "name": "Sensodyne Pronamel\nKids Bubble Mint",
+      "codes": [
+        "0135-0818-01"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "113 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=41b1e626-e79b-d638-e063-6394a90a1f5b",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=41b1e626-e79b-d638-e063-6394a90a1f5b&name=Sensodyne+Pronamel+Kids+Bubble+Mint+4+oz.jpg",
+      "image": "data/41b1e626-e79b-d638-e063-6394a90a1f5b/package-image",
+      "image_sha256": "07cb97dc7edfaf93ee49d2c3bde5f8fcfecd4e1e90b469061700d9ee8ef36e0c",
+      "version": 2
+    },
+    {
+      "id": "d002074b-0580-4247-b3c7-121b8c098697",
+      "family": "Sensodyne",
+      "name": "Sensodyne\nCavity and Sensitivity",
+      "codes": [
+        "0135-4032-01"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "77 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d002074b-0580-4247-b3c7-121b8c098697",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=d002074b-0580-4247-b3c7-121b8c098697&name=Sensodyne+Cavity+and+Sensitivity+2.7+oz.jpg.jpg",
+      "image": "data/d002074b-0580-4247-b3c7-121b8c098697/package-image",
+      "image_sha256": "63778ea790b44086d5d1319ac7f0bebecd3865c8dd4d9e80725b9a0560c0bab6",
+      "version": 1
+    },
+    {
+      "id": "537e1a0d-820d-c3f7-e063-6294a90a56ea",
+      "family": "Sudafed",
+      "name": "Sudafed Sinus Congestion Plus Cold Severe Day",
+      "codes": [
+        "50580-659-10"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "10 in 1 BLISTER PACK"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=537e1a0d-820d-c3f7-e063-6294a90a56ea",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=537e1a0d-820d-c3f7-e063-6294a90a56ea&name=sudafed-1.jpg",
+      "image": "data/537e1a0d-820d-c3f7-e063-6294a90a56ea/package-image",
+      "image_sha256": "d76061fb4e32f54bbf9231dd03123a30ea3d29314674d8163836974d2ca9bb4c",
+      "version": 1
+    },
+    {
+      "id": "67428f4b-28be-4682-a9a9-781bf85089ff",
+      "family": "Sudafed",
+      "name": "Sudafed PE Sinus Pressure Plus Pain",
+      "codes": [
+        "85766-183-24"
+      ],
+      "package": [
+        "12 in 1 BLISTER PACK",
+        "2 in 1 CARTON"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=67428f4b-28be-4682-a9a9-781bf85089ff",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=67428f4b-28be-4682-a9a9-781bf85089ff&name=label.jpg",
+      "image": "data/67428f4b-28be-4682-a9a9-781bf85089ff/package-image",
+      "image_sha256": "7a0196534c551b5bd24644635462d8a160902abf6f1c30f117bab26c4e84995c",
+      "version": 1
+    },
+    {
+      "id": "4b567234-1da9-4e10-a427-877eea2be1c1",
+      "family": "Theraflu",
+      "name": "Theraflu Relief Max StrengthNighttime",
+      "codes": [
+        "51316-549-06"
+      ],
+      "package": [
+        "1 in 1 PACKET"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4b567234-1da9-4e10-a427-877eea2be1c1",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=4b567234-1da9-4e10-a427-877eea2be1c1&name=image-01.jpg",
+      "image": "data/4b567234-1da9-4e10-a427-877eea2be1c1/package-image",
+      "image_sha256": "6785ab8c09dc9eb9e0f426d6f3e7e47d7f627d0acece920852c1f79f6bd77a34",
+      "version": 4
+    },
+    {
+      "id": "932a3d40-9b52-4e91-bc61-6fd506f2d9e6",
+      "family": "Theraflu",
+      "name": "Theraflu Relief Max StrengthDaytime",
+      "codes": [
+        "51316-539-06"
+      ],
+      "package": [
+        "1 in 1 PACKET"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=932a3d40-9b52-4e91-bc61-6fd506f2d9e6",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=932a3d40-9b52-4e91-bc61-6fd506f2d9e6&name=Theraflu+Flu+Relief+MS+DT+8.3+fl+oz.jpg.jpg.jpg",
+      "image": "data/932a3d40-9b52-4e91-bc61-6fd506f2d9e6/package-image",
+      "image_sha256": "a46ba113e19ba023c162119a27aad94398264ca81e675ea5c2d0562dae4a405a",
+      "version": 4
+    },
+    {
+      "id": "ed861325-bd69-42fe-b901-e15add028c7a",
+      "family": "Tums",
+      "name": "Tums Chewy Bites\nStrawberries and Cream",
+      "codes": [
+        "0135-5969-60"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "60 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed861325-bd69-42fe-b901-e15add028c7a",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=ed861325-bd69-42fe-b901-e15add028c7a&name=TUMS+Chewy+Bites+Strawberries+and+Cream+60ct.JPG.jpg",
+      "image": "data/ed861325-bd69-42fe-b901-e15add028c7a/package-image",
+      "image_sha256": "01949ffe6acc76ba930aff5a551e4476f742fd7052e2643d30e848cc57dbdf2a",
+      "version": 3
+    },
+    {
+      "id": "3caa037e-3424-f9ce-e063-6294a90ac1e8",
+      "family": "Tums",
+      "name": "Tums Chewy Bites",
+      "codes": [
+        "85237-1860-1"
+      ],
+      "package": [
+        "2 in 1 POUCH",
+        "20 in 1 BOX, UNIT-DOSE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3caa037e-3424-f9ce-e063-6294a90ac1e8",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=3caa037e-3424-f9ce-e063-6294a90ac1e8&name=2401860199+-+Tums+Chewy+-+1860-3.jpg",
+      "image": "data/3caa037e-3424-f9ce-e063-6294a90ac1e8/package-image",
+      "image_sha256": "3372a9524435162e68890a8ae522ebdbc87dce4c9e4510541ca0c8e8c05d0a3c",
+      "version": 6
+    },
+    {
+      "id": "44e8a92a-748b-4dc3-ae8d-176a350ac83d",
+      "family": "Tylenol",
+      "name": "TYLENOL PMExtra Strength",
+      "codes": [
+        "50580-833-01"
+      ],
+      "package": [
+        "240 mL in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=44e8a92a-748b-4dc3-ae8d-176a350ac83d",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=44e8a92a-748b-4dc3-ae8d-176a350ac83d&name=tylenol-01.jpg",
+      "image": "data/44e8a92a-748b-4dc3-ae8d-176a350ac83d/package-image",
+      "image_sha256": "6ece78fbeac74fe7dd48cd91dc0d3ed4d29bbeb1b69634722afca79150adc838",
+      "version": 6
+    },
+    {
+      "id": "594f515c-b369-816d-e063-6294a90a59a1",
+      "family": "Tylenol",
+      "name": "Extra Strength Tylenol Cold Plus Flu Multi-Symptom Day Night",
+      "codes": [
+        "50580-585-01"
+      ],
+      "package": [
+        "1 in 1 PACKAGE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=594f515c-b369-816d-e063-6294a90a59a1",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=594f515c-b369-816d-e063-6294a90a59a1&name=tylenol-1.jpg",
+      "image": "data/594f515c-b369-816d-e063-6294a90a59a1/package-image",
+      "image_sha256": "d51b42b217e5889b4ca2fb5f7ff3ca4334a85c960cf3ef2303bcfd401c40f9ca",
+      "version": 1
+    },
+    {
+      "id": "bd4418b7-c6aa-5e71-e053-2995a90a4cc4",
+      "family": "Vaseline",
+      "name": "Vaseline",
+      "codes": [
+        "64942-1874-1",
+        "64942-1874-2",
+        "64942-1874-3",
+        "64942-1874-4",
+        "64942-1874-5",
+        "64942-1874-6",
+        "64942-1874-7"
+      ],
+      "package": [
+        "106 g in 1 JAR",
+        "193 g in 1 TUBE",
+        "212 g in 1 JAR",
+        "368 g in 1 JAR",
+        "49 g in 1 JAR",
+        "49 g in 1 TUBE",
+        "71 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bd4418b7-c6aa-5e71-e053-2995a90a4cc4",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=bd4418b7-c6aa-5e71-e053-2995a90a4cc4&name=VaselineHealingJelly.jpg",
+      "image": "data/bd4418b7-c6aa-5e71-e053-2995a90a4cc4/package-image",
+      "image_sha256": "4b2aba1adb97c93ba4cd770d6509a79648f25c16e646bddb527482d3935bb3ab",
+      "version": 4
+    },
+    {
+      "id": "bca3176f-86fe-5969-e053-2995a90a2419",
+      "family": "Vaseline",
+      "name": "Vaseline",
+      "codes": [
+        "64942-1866-1",
+        "64942-1866-2"
+      ],
+      "package": [
+        "368 g in 1 JAR",
+        "82 g in 1 TUBE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bca3176f-86fe-5969-e053-2995a90a2419",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=bca3176f-86fe-5969-e053-2995a90a2419&name=VaselineBaby.jpg",
+      "image": "data/bca3176f-86fe-5969-e053-2995a90a2419/package-image",
+      "image_sha256": "ef0bd600e310926e28fbb83e721c7541ecb660dcf99162c6f6a96c1187e960e1",
+      "version": 4
+    },
+    {
+      "id": "5747edef-7a87-41d7-9594-6c78508b9ba2",
+      "family": "Visine",
+      "name": "Visine Red Eye Total Comfort Multi-Symptom",
+      "codes": [
+        "69968-0360-1"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "15 mL in 1 BOTTLE, DROPPER"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5747edef-7a87-41d7-9594-6c78508b9ba2",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=5747edef-7a87-41d7-9594-6c78508b9ba2&name=visine+label.jpg",
+      "image": "data/5747edef-7a87-41d7-9594-6c78508b9ba2/package-image",
+      "image_sha256": "167a48636add438a9cf7de8a537209a23367fb56fc3daa01400f6326f4f59161",
+      "version": 7
+    },
+    {
+      "id": "5e153070-3668-f3c7-e063-6294a90a373b",
+      "family": "Visine",
+      "name": "Visine Red Eye Hydrating Comfort",
+      "codes": [
+        "85237-1969-0",
+        "85237-1969-1"
+      ],
+      "package": [
+        "1 in 1 BLISTER PACK",
+        "8 mL in 1 BOTTLE, DROPPER"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5e153070-3668-f3c7-e063-6294a90a373b",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=5e153070-3668-f3c7-e063-6294a90a373b&name=2511968048+-+Visine+-+1969-1.jpg",
+      "image": "data/5e153070-3668-f3c7-e063-6294a90a373b/package-image",
+      "image_sha256": "b4bb73c32ac9db4f7970781bcbac5654a8a4377ad349dbc23eb10cd120c2382c",
+      "version": 1
+    },
+    {
+      "id": "59cef432-41ac-768c-e063-6294a90a38fa",
+      "family": "Zyrtec",
+      "name": "Zyrtec Allergy Cetirizine HCl",
+      "codes": [
+        "67414-013-01",
+        "67414-013-02",
+        "67414-013-03"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "12 in 1 BOTTLE",
+        "25 in 1 BOTTLE",
+        "40 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=59cef432-41ac-768c-e063-6294a90a38fa",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=59cef432-41ac-768c-e063-6294a90a38fa&name=Inner+Package.jpg",
+      "image": "data/59cef432-41ac-768c-e063-6294a90a38fa/package-image",
+      "image_sha256": "227b0f0a5d99454519f35df1654a507c6b31b658ac4268b5a16c11e390022175",
+      "version": 2
+    },
+    {
+      "id": "59cf7672-fdde-ddbd-e063-6394a90a223b",
+      "family": "Zyrtec",
+      "name": "Zyrtec Allergy Cetirizine HCl",
+      "codes": [
+        "67414-012-00"
+      ],
+      "package": [
+        "1 in 1 CARTON",
+        "90 in 1 BOTTLE"
+      ],
+      "source": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=59cf7672-fdde-ddbd-e063-6394a90a223b",
+      "image_source": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?setid=59cf7672-fdde-ddbd-e063-6394a90a223b&name=Inner+Package4.jpg",
+      "image": "data/59cf7672-fdde-ddbd-e063-6394a90a223b/package-image",
+      "image_sha256": "cf718a2e582ec7282135b47317fc5c0879f5ae782ffa199e8553e80c133362dd",
+      "version": 2
+    }
+  ],
+  "splits": {
+    "train": [
+      "Neosporin",
+      "Allegra",
+      "Azo",
+      "Advil",
+      "Afrin",
+      "Zyrtec",
+      "Aquaphor",
+      "Gold Bond",
+      "Excedrin",
+      "Sudafed",
+      "Aleve",
+      "Prilosec",
+      "Colace",
+      "Claritin",
+      "Theraflu",
+      "Tylenol",
+      "Delsym",
+      "Eucerin",
+      "Preparation H",
+      "Tums",
+      "Mucinex",
+      "Carmex"
+    ],
+    "validation": [
+      "Rolaids",
+      "Flonase",
+      "Sensodyne",
+      "Listerine",
+      "Orajel",
+      "Cortizone",
+      "Pepto-Bismol"
+    ],
+    "test": [
+      "Dramamine",
+      "Dulcolax",
+      "Pepcid",
+      "Crest",
+      "Benadryl",
+      "Vaseline",
+      "Visine"
+    ]
+  },
+  "rejected_count": 16
+}

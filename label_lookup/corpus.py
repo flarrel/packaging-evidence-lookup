@@ -2,13 +2,15 @@
 
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
+from functools import partial
 import hashlib
 import json
 from pathlib import Path
 from urllib.error import URLError
-from urllib.parse import urlencode, urlsplit
+from urllib.parse import parse_qs, urlencode, urlsplit
 from uuid import UUID
 from xml.etree import ElementTree
+from zipfile import ZipFile
 
 from PIL import UnidentifiedImageError
 
@@ -17,6 +19,7 @@ from .images import load_image
 
 ROOT = "https://dailymed.nlm.nih.gov/dailymed"
 API = f"{ROOT}/services/v2"
+LOCK = Path(__file__).with_name("sources.json")
 BRANDS = (
     "Advil", "Afrin", "Aleve", "Allegra", "Aquaphor", "Azo", "Benadryl", "Burt's Bees",
     "Carmex", "Claritin", "Colace", "Cortizone", "Crest", "Culturelle", "Delsym",
@@ -112,7 +115,38 @@ def read_label(work: Path, brand: str, row: dict) -> Record | None:
     )
 
 
-def prepare(work: Path) -> dict:
+def _fetch_snapshot_image(work: Path, record: Record) -> None:
+    target = work / record.image
+    limit = 4_000_000
+    checksum = [("sha256", record.image_sha256)]
+    try:
+        download(record.image_source, target, limit, checksum)
+    except (URLError, TimeoutError, ValueError):
+        params = urlencode({"setid": record.id, "type": "zip", "version": record.version})
+        archive = download(f"{ROOT}/getFile.cfm?{params}", target.parent / "source.zip", 48_000_000)
+        filename = parse_qs(urlsplit(record.image_source).query)["name"][0]
+        with ZipFile(archive) as bundle:
+            entry = next(info for info in bundle.infolist() if Path(info.filename).name == filename)
+            if entry.file_size > limit:
+                raise ValueError(f"Package image exceeds its byte limit: {record.id}")
+            image = bundle.read(entry)
+        if hashlib.sha256(image).hexdigest() != record.image_sha256:
+            raise ValueError(f"Pinned package image checksum did not match: {record.id}")
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_bytes(image)
+
+
+def prepare(work: Path, *, discover: bool = False) -> dict:
+    if discover:
+        return _discover(work)
+    payload = json.loads(LOCK.read_text())
+    records = [Record(**row) for row in payload["records"]]
+    with ThreadPoolExecutor(max_workers=6) as executor:
+        list(executor.map(partial(_fetch_snapshot_image, work), records))
+    return _write_manifest(work, payload)
+
+
+def _discover(work: Path) -> dict:
     def collect(brand: str) -> tuple[list[Record], list[str]]:
         results, errors = [], []
         query = urlencode({"drug_name": brand, "name_type": "brand", "pagesize": 6})
@@ -153,10 +187,14 @@ def prepare(work: Path) -> dict:
         "source": ROOT, "records": [record.__dict__ for record in records],
         "splits": splits, "rejected": errors,
     }
+    return _write_manifest(work, payload)
+
+
+def _write_manifest(work: Path, payload: dict) -> dict:
     (work / "corpus.json").write_text(json.dumps(payload, indent=2) + "\n")
     return {
-        "records": len(records), "rejected": len(errors),
-        "families": {key: len(value) for key, value in splits.items()},
+        "records": len(payload["records"]), "rejected": payload["rejected_count"] if "rejected_count" in payload else len(payload["rejected"]),
+        "families": {key: len(value) for key, value in payload["splits"].items()},
         "manifest": str(work / "corpus.json"),
     }
 

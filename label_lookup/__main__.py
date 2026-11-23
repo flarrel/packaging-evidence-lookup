@@ -2,6 +2,7 @@
 
 import argparse
 import json
+import os
 from pathlib import Path
 
 
@@ -10,7 +11,8 @@ def main() -> None:
     parser.add_argument("--work", type=Path, default=Path(".work"))
     commands = parser.add_subparsers(dest="command", required=True)
     commands.add_parser("medical", help="prepare the PneumoniaMNIST image benchmark")
-    commands.add_parser("prepare", help="build the packaging corpus")
+    prepare = commands.add_parser("prepare", help="build the packaging corpus")
+    prepare.add_argument("--discover", action="store_true", help="build a fresh snapshot from DailyMed")
     commands.add_parser("models", help="fetch pinned public CPU models")
     commands.add_parser("train", help="fit and save the two rankers")
     evaluate = commands.add_parser("evaluate", help="run the packaging benchmark")
@@ -22,6 +24,8 @@ def main() -> None:
     serve.add_argument("--port", type=int, default=8000)
     serve.add_argument("--host", choices=("127.0.0.1", "0.0.0.0"), default="127.0.0.1")
     args = parser.parse_args()
+    os.environ.setdefault("MPLCONFIGDIR", str(args.work / "matplotlib"))
+    os.environ["LANGSMITH_TRACING"] = "false"
     if args.command == "medical":
         from .medical import run
 
@@ -29,7 +33,7 @@ def main() -> None:
     elif args.command == "prepare":
         from .corpus import prepare
 
-        result = prepare(args.work)
+        result = prepare(args.work, discover=args.discover)
     elif args.command == "models":
         from .models import fetch
 
