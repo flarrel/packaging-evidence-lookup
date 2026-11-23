@@ -79,13 +79,17 @@ def read_label(work: Path, brand: str, row: dict) -> Record | None:
         if entry["name"] in names and entry["mime_type"].startswith("image/")
     ]
     products = packaging["products"]
-    if not candidates or len(products) != 1:
+    if (not candidates or len(products) != 1
+            or packaging["spl_version"] != media["spl_version"]):
         return None
     product = products[0]
-    codes = tuple(sorted({row["ndc"] for row in product["packaging"]}))
+    codes = tuple(sorted({
+        row["ndc"] for row in product["packaging"] if isinstance(row.get("ndc"), str) and row["ndc"]
+    }))
     package = tuple(sorted({
         " ".join(description.split())
-        for row in product["packaging"] for description in row["package_descriptions"]
+        for row in product["packaging"] for description in (row.get("package_descriptions") or [])
+        if isinstance(description, str) and description.strip()
     }))
     if not product["product_name"].strip() or not codes or not package:
         return None
